@@ -33,3 +33,7 @@ Tigrex
 Tobi-Kadachi
 Volvidon
 Zinogre
+
+
+
+Rampage Monster are not on the list or monster that are not in curent game 
